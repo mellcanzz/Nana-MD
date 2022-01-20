@@ -1,4 +1,4 @@
-[![Deploy Nana-MD](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adulalhy/Nana-MD)
+[![Deploy Nana-MD](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mellcanzz/Nana-MD)
 <p align="center">
 <img src="https://i.ibb.co/5shXwhS/8333516ae82a.jpg" alt="NANA BOT" width="500"/>
 
